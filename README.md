@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil 👋
 
 - 🏫 Estudante Ciências da computação - 2° semestre.
-- 📚 Estudan python com intenção de trabalhar back-end.
+- 📚 Estudando python com intenção de trabalhar back-end.
 - ✏️ Conhecimento básico: Html, css, linux e redes.
 - 💬 Fique a vontade para entrar em contato comigo. 
 
